@@ -2,4 +2,4 @@
 
  
  
-App link :  https://ppsn755.github.io/quiz-app/
+App link :  https://ishu575.github.io/quiz-app/
